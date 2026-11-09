@@ -1,0 +1,22 @@
+{
+  "name": "explorador_de_cachorros",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoNunes7/Explorador_de_Cachorros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoNunes7/Explorador_de_Cachorros/issues"
+  },
+  "homepage": "https://github.com/GustavoNunes7/Explorador_de_Cachorros#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
